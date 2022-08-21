@@ -24,7 +24,9 @@ class Types {
 
             }
 
-        gitreturn false;
+
+
+        return false;
     }
 
     static int romanToArabic(String inputString) {
